@@ -1,0 +1,45 @@
+ul{
+    list-style-type: none;
+}
+
+
+#SayingsSearched{
+    display: none;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    font-size: 1.5vw;
+    text-decoration: none;
+}
+
+.SayingsSearched > a{
+    text-decoration: none;
+    color: inherit;
+}
+
+.SayingsSearched > h2{
+    margin: 0;
+    padding: 0;
+}
+
+.SayingsSearched > p{
+    margin: 0;
+    padding: 0;
+}
+
+#SearchContainer{
+    width: 30vw;
+    background-color: rgb(223, 223, 223);
+    max-height: 40vh;
+    overflow: scroll;
+    margin: 0;
+    padding: 0;
+    box-shadow: 0.9vw 0.9vw 2vw rgba(0, 0, 0, 0.55);
+}
+
+#SearchBar{
+    width: 98.5%;
+    margin: 0;
+    padding: 0;
+}
+
